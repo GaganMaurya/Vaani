@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:wght@100&family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+*{
+  
+  font-family: "Outfit", sans-serif;
+}
+body {
+  background-color: #1B1B1F;
+  color: white;
+}
+
+.no-scrollbar::-webkit-scrollbar{
+  display: none;
+}
+
+.blue{
+  color: rgb(30, 30, 169);
+}
